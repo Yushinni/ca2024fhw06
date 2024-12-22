@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 4b046e19c14730747b14c744cd1bb7b7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0.SOUND
+    second: {fileID: 2100000, guid: 2273df132ea264f4b803066a82cef928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1._AL
+    second: {fileID: 2100000, guid: 95577eed4e60c0843b7b2e470a1d36c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10.wakuAL1
+    second: {fileID: 2100000, guid: 72537ef63b29db64792eca4435032cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11.wakuAL2
+    second: {fileID: 2100000, guid: 4ea088b4d8c6eee41bee0bccdd2c6e0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12.wakuAL3
+    second: {fileID: 2100000, guid: 4bdf56403db9009458dd82ac5e345d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13.wakuAL4
+    second: {fileID: 2100000, guid: 0d689f954efecb845b7c3a13949bf2a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14.yokokabeAL
+    second: {fileID: 2100000, guid: 2c9a62aaf0fb7e54b9c235661be0bcc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15.yokokabeAL2
+    second: {fileID: 2100000, guid: 0ffcb1b1875152644b69ff67d4819849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16.denshiAL
+    second: {fileID: 2100000, guid: 57739198532a9774580c0152cc283ce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17.raitoAL
+    second: {fileID: 2100000, guid: 84b9758731b7cc742a319e413b4b8a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18.shoumeiraito
+    second: {fileID: 2100000, guid: a1047f371c68c9c4faaf9e6df876ee06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19.haikan
+    second: {fileID: 2100000, guid: 4bbf0d793ee0b3a43ab1c59a89b973b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2.dukeiALdai(soto)
+    second: {fileID: 2100000, guid: 5152bd1eda3084345b02abae7f1e6447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20.tenjou
+    second: {fileID: 2100000, guid: 82d0489510a554e4d8cad91102eb17c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21.zenkabe
+    second: {fileID: 2100000, guid: 8c3dde836f1e0944a993ed30cd33e67a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22.okukabe
+    second: {fileID: 2100000, guid: fbccb291076faaf4aabbb30e7f72bc59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23.tenjououtotsu
+    second: {fileID: 2100000, guid: 8359d02df06a3ff41bec1296dd96cf0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24.kabeoutotsu
+    second: {fileID: 2100000, guid: 508fc4678e01fae43b6bf4ea13e65fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25.yokokabe
+    second: {fileID: 2100000, guid: 0ca192bf56c52a549abac659e2a45d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 26.yuka
+    second: {fileID: 2100000, guid: 15da4c1ba92c80245b3f77f1f77f2f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27.su_^ka^
+    second: {fileID: 2100000, guid: 66346406dd35ae14c95b4402dae7a8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 28.su_^ka^2
+    second: {fileID: 2100000, guid: 0ce80f62d4c752243b4082cb08faaa59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 29.tsumami
+    second: {fileID: 2100000, guid: 46425f49213ad1246a92cfff46e16bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3.dukeiALdai(naka)
+    second: {fileID: 2100000, guid: 4db2a36782157fc48a19b54fee9c9c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 30.su_^ka^naka
+    second: {fileID: 2100000, guid: 7c8fbd8f6bc6bf740b296c515e4cf925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 31.sankyaku
+    second: {fileID: 2100000, guid: 5f56d573c308b8c458df1113d0fc2dce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 32.sankyakukaba^
+    second: {fileID: 2100000, guid: 2a537907123bfb94c817791c0124c04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 33.sankyakukaba^2
+    second: {fileID: 2100000, guid: a3f74503d05f63c40bd4ceabe99da9bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 34.sasae
+    second: {fileID: 2100000, guid: ecf3107a92e288e4b8750f2547fd8fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 35.sasaekaba^
+    second: {fileID: 2100000, guid: 7d2cf4ee4f9cfea41a7a466a10441a0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 36.ami
+    second: {fileID: 2100000, guid: 8ba8cd6b40b0b124d984b5c7e23597ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 37.su_^ka^sen
+    second: {fileID: 2100000, guid: 63827dc1c73a8354799fbd59cf6202ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4.dukeiALnaka(soto)
+    second: {fileID: 2100000, guid: 4ac4ffd08a77e354ba4cc63f304479a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5.dukeiALnaka(naka)
+    second: {fileID: 2100000, guid: 136828d62fe15734bb3ed5a28b768584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6.dukeiALshou(soto)
+    second: {fileID: 2100000, guid: 1d075ddb665c9e54fa8a3fca7abeb390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7.dukeiALshou(naka)
+    second: {fileID: 2100000, guid: d4b1a9a14054561438fcc23ad252ca25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8.dukeiALchuuou(soto)
+    second: {fileID: 2100000, guid: 11b445fee9b007547bb6ebd04ef39c3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9.dukeiALchuuou(naka)
+    second: {fileID: 2100000, guid: c8206828fbf35184e95d65b9f6cef6ad, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
